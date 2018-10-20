@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "CodeLoop",
+  "description": "Software development firm focused on web development with Laravel, Vue.js, React",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Samir Amer <samir@codeloop.co>",
   "dependencies": {
     "autoprefixer": "^9.2.1",
     "gatsby": "^2.0.19",
