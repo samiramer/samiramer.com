@@ -56,13 +56,13 @@ let colors = {
   'grey-lightest': '#f8fafc',
   'white': '#ffffff',
 
-  'red-darkest': '#3b0d0c',
-  'red-darker': '#621b18',
-  'red-dark': '#cc1f1a',
-  'red': '#e3342f',
-  'red-light': '#ef5753',
-  'red-lighter': '#f9acaa',
-  'red-lightest': '#fcebea',
+  'red-darkest': '#601616',
+  'red-darker': '#902121',
+  'red-dark': '#c02c2c',
+  'red': '#f03838',
+  'red-light': '#f47373',
+  'red-lighter': '#f9afaf',
+  'red-lightest': '#fdebeb',
 
   'orange-darkest': '#462a16',
   'orange-darker': '#613b1f',
@@ -167,7 +167,7 @@ module.exports = {
   */
 
   screens: {
-    'sm': '576px',
+    'sm': '412px',
     'md': '768px',
     'lg': '992px',
     'xl': '1200px',

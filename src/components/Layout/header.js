@@ -13,7 +13,7 @@ const Header = () => {
   };
 
   return (
-    <nav className="bg-white border-b w-full">
+    <nav className="bg-white border-b shadow w-full">
       <div className="flex flex-wrap items-center justify-between max-w-xl mx-auto p-4">
         <div
           className="hidden md:flex md:items-center w-full md:w-auto"

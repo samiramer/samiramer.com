@@ -19,7 +19,7 @@ const Layout = ({ children }) => (
       }
     `}
     render={data => (
-      <>
+      <div className="text-grey-darkest aliased bg-grey-lightest">
         <Helmet
           title={data.site.siteMetadata.title}
           meta={[
@@ -31,12 +31,12 @@ const Layout = ({ children }) => (
         </Helmet>
         <Header siteTitle={data.site.siteMetadata.title} />
         <div
-          className="flex flex-col flex-1 mx-auto mt-10 bg-grey-lightest w-full"
+          className="flex flex-col flex-1 mx-auto mt-10 w-full"
         >
           {children}
         </div>
         <Footer />
-      </>
+      </div>
     )}
   />
 )
