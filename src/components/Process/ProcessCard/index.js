@@ -3,7 +3,7 @@ import React from "react";
 const Card = ({ card }) => {
 
   return (
-    <div key={card.key} className="flex-1 md:mr-4 shadow border text-center rounded mb-4 md:mb-0 bg-white">
+    <div key={card.key} className="flex-1 md:mr-3 md:ml-3 shadow border text-center rounded mb-4 md:mb-0 bg-white">
       <div className="p-4">
         <img className="h-16 w-16" alt={card.title} src={card.image} />
         <p className="text-xl font-bold text-grey-darkest">

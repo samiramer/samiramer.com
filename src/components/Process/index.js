@@ -16,7 +16,7 @@ const cards = [
     key: 'code',
     image: Code,
     title: "Let's Build It",
-    body: "Once all of your core requirements are established, we agree on an overall technical solution and begin putting it all together - this is the fun part! <br/><br/>An iterative approach is preferred where the solution is divided into smaller task.<br/><br/>Each task is then implemented, tested and deployed one by one until we reach our final goal.<br/><br/>Following a collaborative approach will allow for more transparent communication and provide opportunities to identify, improve or enhance any gaps that could surface."
+    body: "Once all of your core requirements are established, we agree on an overall technical solution and begin putting it all together - this is the fun part! <br/><br/>An iterative approach is preferred where the solution is divided into smaller tasks.<br/><br/>Each functional feature is then implemented, tested and deployed one by one until we reach our final goal.<br/><br/>Following a collaborative approach will allow for more transparent communication and provide opportunities to identify, improve or enhance any gaps that could surface."
   },
   {
     key: 'launch',
