@@ -29,9 +29,9 @@ const cards = [
 const Process = () => (
 
   <div className="w-full mx-auto">
-    <div className="text-3xl md:text-4xl text-center text-grey-darkest mb-10">
+    <h1 className="text-2xl md:text-4xl text-center text-grey-darkest mb-10">
       Trust The Process
-    </div>
+    </h1>
     <div className="mx-auto leading-normal text-sm flex flex-col md:flex-row">
       {cards.map((card) => <Card key={card.key} card={card}></Card>)}
     </div>

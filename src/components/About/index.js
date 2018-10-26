@@ -4,9 +4,9 @@ import Me from "../../images/me_small.png";
 
 const AboutPage = () => (
   <div>
-    <div className="text-2xl md:text-4xl text-center text-grey-darkest mb-10">
+    <h1 className="text-2xl md:text-4xl text-center text-grey-darkest mb-10">
       Who is CodeLoop?
-    </div>
+    </h1>
     <div className="mx-auto flex flex-col justify-between items-center leading-normal">
       <img className="w-32 mb-6" alt="Hi!" src={Me} />
       <p>

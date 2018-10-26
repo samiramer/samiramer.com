@@ -29,13 +29,15 @@ const Layout = ({ children }) => (
         >
           <html lang="en" />
         </Helmet>
-        <Header siteTitle={data.site.siteMetadata.title} />
-        <div
-          className="flex flex-col flex-1 mx-auto mt-10 w-full"
-        >
-          {children}
+        <div className="flex flex-col min-h-screen">
+          <Header siteTitle={data.site.siteMetadata.title} />
+          <div
+            className="flex flex-col flex-1 mx-auto mt-10 w-full"
+          >
+            {children}
+          </div>
+          <Footer />
         </div>
-        <Footer />
       </div>
     )}
   />
