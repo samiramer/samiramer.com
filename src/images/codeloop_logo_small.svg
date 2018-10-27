@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   viewBox="0 0 108 108"
+   data-name="Layer 1"
+   id="Layer_1">
+  <metadata
+     id="metadata926">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Artboard 1</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs915">
+    <style
+       id="style910">.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:#f03838;}</style>
+    <clipPath
+       id="clip-path">
+      <rect
+         id="rect912"
+         transform="translate(-22.37 54) rotate(-45)"
+         height="108"
+         width="54"
+         x="27"
+         class="cls-1" />
+    </clipPath>
+  </defs>
+  <title
+     id="title917">Artboard 1</title>
+  <g
+     id="g921"
+     clip-path="url(#clip-path)"
+     class="cls-2">
+    <path
+       id="path919"
+       d="M54,15.82a27.09,27.09,0,0,0-38.18,0,26.72,26.72,0,0,0,0,38.18c7.63,7.64,16.48,8.76,25.65,8,.78-3.81,1.12-7.17,2.27-10.62a.68.68,0,0,0-.12-.83c-8,1.15-14.83,1.16-20.17-4.18a15.91,15.91,0,0,1,0-22.91,16.21,16.21,0,0,1,22.91,0c3.76,3.76,4.93,7.52,5,12.41s-1.19,10.74-2.62,17-3,12.77-2.86,19.57A28.23,28.23,0,0,0,54,92.18a27.09,27.09,0,0,0,38.18,0,26.72,26.72,0,0,0,0-38.18c-7.63-7.64-16.48-8.76-25.65-8-.78,3.81-1.52,6.83-1.91,10.26-.39.39.15.8-.24,1.19,8.4-1.53,14.83-1.16,20.17,4.18a15.91,15.91,0,0,1,0,22.91,16.21,16.21,0,0,1-22.91,0c-3.76-3.76-4.92-7.52-5-12.41S57.82,61.4,59.25,55.2s3-12.78,2.86-19.58A28.26,28.26,0,0,0,54,15.82Z"
+       class="cls-3" />
+  </g>
+</svg>
