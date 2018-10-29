@@ -10,13 +10,14 @@
     "gatsby-plugin-offline": "^2.0.5",
     "gatsby-plugin-postcss": "^2.0.0",
     "gatsby-plugin-react-helmet": "^3.0.0",
+    "gatsby-plugin-sitemap": "^2.0.1",
     "postcss-cli": "^6.0.1",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
     "react-helmet": "^5.2.0"
   },
   "keywords": [
-    "gatsby"
+    "CodeLoop"
   ],
   "license": "MIT",
   "scripts": {
