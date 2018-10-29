@@ -26,10 +26,10 @@ const Card = ({ card, compact }) => {
           <p>
             {card.subtitle}
           </p>
-          {card.description &&
+          {(!compact && card.description) &&
             <p className="mt-8 text-sm text-left" dangerouslySetInnerHTML={{ __html: card.description }}></p>
           }
-          {card.techStack && 
+          {(!compact && card.techStack) && 
             <div className="flex flex-row text-sm mt-8 text-left">
               <div className="flex-none py-1 mr-1">Built With</div>
               <div className="flex flex-row flex-wrap">
@@ -38,7 +38,7 @@ const Card = ({ card, compact }) => {
             </div>
           }
           <div className="mt-8 flex items-end">
-            {card.url ? (
+            {(!compact && card.url) ? (
               <a href={card.url} className={linkClasses} target="__blank">CHECK IT OUT HERE</a>
             ) : (
               <Link to='/portfolio' className={linkClasses} target="__blank">READ MORE</Link>
