@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'CodeLoop',
+    siteUrl: 'https://codeloop.co',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -17,6 +18,7 @@ module.exports = {
       },
     },
     'gatsby-plugin-offline',
-    `gatsby-plugin-postcss`
+    `gatsby-plugin-postcss`,
+    `gatsby-plugin-sitemap`,
   ],
 }
