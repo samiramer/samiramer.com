@@ -13,7 +13,7 @@ const ProcessPage = () => (
         But I am always available via email at
         <br />
         <a className="text-red" href="mailto:samir@codeloop.co">
-          &lt;samir@codeloop.co&gt;
+          &lt;sam@codeloop.co&gt;
         </a>
         <br />
         Let's build something!
