@@ -19,7 +19,7 @@ const Layout = ({ children }) => (
       }
     `}
     render={data => (
-      <div className="text-grey-darkest aliased bg-grey-lightest">
+      <div className="text-grey-darkest aliased bg-grey-lightest text-lg">
         <Helmet
           title={data.site.siteMetadata.title}
           meta={[

@@ -1,5 +1,5 @@
 <h1 align="center">
-  CodeLoop consulting site
+  Samir Amer consulting site
 </h1>
 
 <p>The site was built using GatsbyJS.  Below is a quick guide on how to get the project up and running.</p>

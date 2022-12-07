@@ -10,7 +10,7 @@ const Work = data => (
     </h1>
     <div className="flex flex-col flex-wrap">
       <div className="w-full leading-loose mb-8">
-        I usually take on one project at a time to ensure that your project is given full attention.  This helps us stay focused on you and your idea's realization.  Here's a sampling of projects we've worked on.
+        I usually take on one project at a time to ensure that your project is given full attention.  This helps us stay focused on you and your idea's realization.  Here's a sampling of projects I've worked on.
       </div>
       <div className="w-full sm:px-4">
         {Cards.map((card) => <Card key={card.key} card={card} compact={true}></Card>)}

@@ -32,11 +32,11 @@ const Header = () => {
         </div>
 
         <Link to="/" className="hidden lg:flex items-center no-underline">
-          <span className="text-5xl text-red-light font-bold">Samir Amer</span>
+          <span className="text-5xl text-black underline font-bold">Samir Amer</span>
         </Link>
 
         <Link to="/" className="flex w-48 lg:hidden items-center no-underline">
-          <span className="text-5xl text-red-light font-bold">Samir Amer</span>
+          <span className="text-5xl text-black underline font-bold">Samir Amer</span>
         </Link>
 
         <div
