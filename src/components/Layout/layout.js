@@ -27,9 +27,9 @@ const Layout = ({ children }) => (
             { name: 'keywords', content: data.site.siteMetadata.title },
           ]}
         >
-          <script
-            async
-            src="https://www.googletagmanager.com/gtag/js?id=UA-122326285-1"
+          <script 
+            async 
+            src="https://www.googletagmanager.com/gtag/js?id=G-07C5ZFGLRM"
           />
           <script>
             {`
@@ -37,7 +37,7 @@ const Layout = ({ children }) => (
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
 
-            gtag('config', 'UA-122326285-1');
+            gtag('config', 'G-07C5ZFGLRM');
             `}
           </script>
           <html lang="en" />
