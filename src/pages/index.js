@@ -8,7 +8,10 @@ import Layout from '../components/Layout/layout'
 
 const IndexPage = () => (
   <Layout>
-    <div className="mt-8 mb-24">
+    <div className="mt-8 mb-24 max-w-lg mx-auto">
+      <About />
+    </div>
+    <div className="mb-8 p-8">
       <Intro />
     </div>
     <div className="mb-8 p-8">
@@ -16,9 +19,6 @@ const IndexPage = () => (
     </div>
     <div className="mb-8 p-8">
       <Work />
-    </div>
-    <div className="mb-8 p-8 max-w-lg mx-auto">
-      <About />
     </div>
   </Layout>
 )

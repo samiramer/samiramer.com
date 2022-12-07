@@ -4,13 +4,10 @@ import Me from "../../images/me_small.png";
 
 const AboutPage = () => (
   <div>
-    <h1 className="text-2xl md:text-4xl text-center text-grey-darkest mb-10">
-      Who is CodeLoop?
-    </h1>
     <div className="mx-auto flex flex-col justify-between items-center leading-normal">
       <img className="w-32 mb-6" alt="Hi!" src={Me} />
       <p>
-        Hi! My name is Sam Mirza and I have been building software applications for almost 20 years.
+        Hi! My name is Samir Amer and I have been building software applications for almost 20 years.
         <br /><br />
         The very first application I ever built was a Pac-Man game for my Computers class when I was 16 years old.  I enjoyed it so much that it became clear to me building software will be a passion of mine for life.  So I got myself a Computer Engineering degree and haven't looked back since.
       </p>
@@ -28,7 +25,7 @@ const AboutPage = () => (
       <p>
         For the past few years, I have been implementing custom web based applications for clients who have the idea but need help with executing their vision on the web.
         <br /><br />
-        Although I am a firm believer in letting the project decide the tools for you, my go to choices nowadays is a fantastic PHP framework called Laravel for backend and APIs along with Vue.JS for frontend and SPA (single page application) development.
+        Although I am a firm believer in letting the project decide the tools for you, I mainly work on the PHP ecosystem for backend implementations using some great frameworks like Laravel and Yii.  For frontend development I usually reach for Vue.JS or React development.
       </p>
     </div>
     <Contact text="Excited?  Let's talk!"></Contact>

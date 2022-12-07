@@ -1,8 +1,8 @@
 {
-  "name": "CodeLoop",
-  "description": "Software development firm focused on web development with Laravel, Vue.js, React",
+  "name": "SamirAmer",
+  "description": "Software development firm focused on web development with Laravel, Yii, Vue.js, React",
   "version": "1.0.0",
-  "author": "Samir Amer <samir@codeloop.co>",
+  "author": "Samir Amer <samirmamer@gmail.com>",
   "dependencies": {
     "autoprefixer": "^9.2.1",
     "gatsby": "^2.0.19",
@@ -17,7 +17,7 @@
     "react-helmet": "^5.2.0"
   },
   "keywords": [
-    "CodeLoop"
+    "SamirAmer"
   ],
   "license": "MIT",
   "scripts": {

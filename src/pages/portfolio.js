@@ -10,7 +10,7 @@ const PortfolioPage = () => (
   <Layout>
     <div className="max-w-full px-8 mb-8">
       <h1 className="text-2xl md:text-4xl text-center text-grey-darkest mb-10">
-        The CodeLoop Portfolio
+        My Portfolio
       </h1>
       <div className="flex flex-row flex-wrap items-stretch">
           {Cards.map((card) => {

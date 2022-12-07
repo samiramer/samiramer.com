@@ -12,8 +12,8 @@ const ProcessPage = () => (
       <h2 className="mt-8">
         But I am always available via email at
         <br />
-        <a className="text-red" href="mailto:samir@codeloop.co">
-          &lt;sam@codeloop.co&gt;
+        <a className="text-red" href="mailto:samirmamer@gmail.com">
+          &lt;samirmamer@gmail.com&gt;
         </a>
         <br />
         Let's build something!

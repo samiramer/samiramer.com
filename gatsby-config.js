@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: 'CodeLoop',
-    siteUrl: 'https://codeloop.co',
+    title: 'Samir Amer',
+    siteUrl: 'https://samiramer.com',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'CodeLoop',
-        short_name: 'CodeLoop',
+        name: 'Samir Amer',
+        short_name: 'Samir Amer',
         start_url: '/',
         background_color: '#663399',
         theme_color: '#663399',

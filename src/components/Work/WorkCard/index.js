@@ -2,7 +2,7 @@ import React from "react"
 import {Link} from "gatsby"
 
 const Card = ({ card, compact }) => {
-  const linkClasses = "border-b-4 border border-red-light rounded shadow text-center text-sm bg-white hover:bg-red-light px-4 py-2 text-grey-darkest hover:text-grey-lightest no-underline font-semibold"
+  const linkClasses = "border-b-4 border border-red-light rounded shadow text-center text-sm bg-white hover:bg-red-light px-4 py-2 text-grey-darkest hover:text-grey-lightest no-underline font-semibold w-full md:w-auto"
   let imgClasses = "h-32 p-3 text-center flex justify-center items-center"
   let contentClasses = "w-full py-4 border-t md:border-t-0 md:border-l mt-2 md:ml-2 overflow-hidden text-center md:text-left"
 
